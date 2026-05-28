@@ -8,7 +8,7 @@
 * **담당 역할**: AI 이미지 생성 API 파이프라인 구축 및 프론트엔드 아키텍처 설계
 * **담당 문서**: `BookDetailPage.jsx`, `CoverImageGenerator.jsx`, `api/openai.jsx`
 * **핵심 성과**: 
-  * OpenAI DALL-E API 연동 및 맞춤형 다중 프롬프트 엔지니어링 아키텍처 설계
+  * OpenAI API 연동 및 맞춤형 다중 프롬프트 엔지니어링 아키텍처 설계
   * 비동기 병렬 처리(`Promise.all`) 파이프라인 도입으로 체감 API Latency 대폭 단축
   * 컴포넌트 3계층 모듈화 리팩토링을 통한 유지보수성 및 협업 효율 극대화
 
