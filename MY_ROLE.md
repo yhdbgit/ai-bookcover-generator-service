@@ -17,6 +17,7 @@
 ## My Tech Stack
 * **AI & API**: OpenAI API (gpt-image-2)
 * **Frontend**: React, JavaScript, Fetch API
+* **Mock Backend**: JSON Server (Mock API 구축)
 * **Environment**: Node.js, npm
 
 ---
